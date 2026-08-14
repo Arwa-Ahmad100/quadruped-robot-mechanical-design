@@ -1,0 +1,19 @@
+QUADRUPED ROBOT — EDITABLE CAD DESIGN
+
+Autodesk Fusion Share Link:
+https://a360.co/3Sg3Qcz
+
+Editable Source File:
+../CAD/Quadruped_Robot_Final_Submission.f3d
+
+CAD Software:
+Autodesk Fusion
+
+Design Type:
+Parametric CAD Quadruped Robot
+
+Notes:
+- The Autodesk Fusion link provides access to the latest shared design.
+- Download access is enabled.
+- The .f3d source file contains the editable Fusion CAD model and design history.
+- Individual STL manufacturing files are provided separately in the STL folder.
